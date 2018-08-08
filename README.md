@@ -22,3 +22,4 @@ System Status Check
 8) sessioncount.sh
 
 9) netifinfo
+   `g++ netifinfo.cpp -o netifinfo`
