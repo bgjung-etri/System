@@ -19,6 +19,6 @@ System Status Check
 7) taskcount
    `$ g++ taskcount.cpp -o taskcount`
 
-8) sessioncount
+8) sessioncount.sh
 
 9) netifinfo
