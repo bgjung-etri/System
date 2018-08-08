@@ -23,3 +23,5 @@ System Status Check
 
 9) netifinfo
    `g++ netifinfo.cpp -o netifinfo`
+   
+   `ifindex ifname hwaddr inetaddr linkspeed oeprstate`
