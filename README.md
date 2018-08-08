@@ -8,7 +8,7 @@ System Status Check
 3) hostip.sh
 
 4) cpusage
-   $ g++ cpusage.c -o cpusage
+   `$ g++ cpusage.c -o cpusage`
 
 5) cpuload
    $ g++ cpuload.cpp -o cpuload -std=c++11
