@@ -17,6 +17,7 @@ System Status Check
    `$ g++ memusage.cpp -o memusage -std=c++11`
 
 7) taskcount
+   `$ g++ taskcount.cpp -o taskcount`
 
 8) sessioncount
 
