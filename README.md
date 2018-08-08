@@ -11,10 +11,10 @@ System Status Check
    `$ g++ cpusage.c -o cpusage`
 
 5) cpuload
-   $ g++ cpuload.cpp -o cpuload -std=c++11
+   `$ g++ cpuload.cpp -o cpuload -std=c++11`
 
 6) memusage
-   $ g++ memusage.cpp -o memusage -std=c++11
+   `$ g++ memusage.cpp -o memusage -std=c++11`
 
 7) taskcount
 
